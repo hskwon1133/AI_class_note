@@ -2,3 +2,6 @@
 
 # notion - 요약본 링크
 https://app.notion.com/p/github-push-pull-39e28ade04ab8010ae7afa7325cf9237?source=copy_link
+
+# 초대된 github repo를 나가고 싶을 경우
+https://computer-science-student.tistory.com/422
