@@ -5,3 +5,6 @@ https://app.notion.com/p/github-push-pull-39e28ade04ab8010ae7afa7325cf9237?sourc
 
 # 초대된 github repo를 나가고 싶을 경우
 https://computer-science-student.tistory.com/422
+
+#수업자료 
+https://github.com/kimgugbee/kh260714.git
